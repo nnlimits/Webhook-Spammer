@@ -1,4 +1,4 @@
-#pen file in python
+#open file in python
 import requests
 import threading
 
